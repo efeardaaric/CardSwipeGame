@@ -15,5 +15,5 @@ public class DecisionCardData
     public int rightMilitaryEffect;
     public int rightReligionEffect;
     public int rightPeopleEffect;
-    public string[] tags; // Butterfly sistem için
+    public string[] tags; //  kelebek etkýsý 
 }

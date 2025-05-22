@@ -1,1955 +1,1957 @@
-[
-  {
-    "id": "card_001",
-    "characterName": "Derviş",
-    "imageName": "dervis",
-    "text": "Derviş İstanbul’da büyük bir yangın çıktı.",
-    "leftOption": "Sürgün et",
-    "rightOption": "Cezalandır",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": 5,
-    "leftReligionEffect": 2,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": -5,
-    "rightMilitaryEffect": 0,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_002",
-    "characterName": "Kadınlar Ağası",
-    "imageName": "kadinlaragasi",
-    "text": "Kadınlar Ağası Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
-    "leftOption": "İncele",
-    "rightOption": "Cezalandır",
-    "leftEconomyEffect": -2,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": 1,
-    "leftPeopleEffect": 4,
-    "rightEconomyEffect": 1,
-    "rightMilitaryEffect": 1,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "ordu",
-      "isyan"
-    ]
-  },
-  {
-    "id": "card_003",
-    "characterName": "Derviş",
-    "imageName": "dervis",
-    "text": "Derviş Yeni vergiler hakkında öneride bulundu.",
-    "leftOption": "Göz yumul",
-    "rightOption": "Yardım gönder",
-    "leftEconomyEffect": 3,
-    "leftMilitaryEffect": -3,
-    "leftReligionEffect": 0,
-    "leftPeopleEffect": -2,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": 0,
-    "rightPeopleEffect": 3,
-    "tags": [
-      "elçilik",
-      "ihanet"
-    ]
-  },
-  {
-    "id": "card_004",
-    "characterName": "Yeniçeri Ağası",
-    "imageName": "yeniceri",
-    "text": "Yeniçeri Ağası Medrese öğrencileri ayaklandı.",
-    "leftOption": "Göz yumul",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": -1,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": 5,
-    "rightMilitaryEffect": -3,
-    "rightReligionEffect": -1,
-    "rightPeopleEffect": 3,
-    "tags": [
-      "mucize"
-    ]
-  },
-  {
-    "id": "card_005",
-    "characterName": "Yeniçeri Ağası",
-    "imageName": "yeniceri",
-    "text": "Yeniçeri Ağası Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
-    "leftOption": "Uyar",
-    "rightOption": "Cezalandır",
-    "leftEconomyEffect": -2,
-    "leftMilitaryEffect": 5,
-    "leftReligionEffect": 3,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": 5,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": 3,
-    "tags": [
-      "gizli_ajanda"
-    ]
-  },
-  {
-    "id": "card_006",
-    "characterName": "Elçi",
-    "imageName": "elci",
-    "text": "Elçi Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
-    "leftOption": "İzin ver",
-    "rightOption": "Yardım gönder",
-    "leftEconomyEffect": 0,
-    "leftMilitaryEffect": -5,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 3,
-    "rightMilitaryEffect": -5,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": -1,
-    "tags": [
-      "ihanet"
-    ]
-  },
-  {
-    "id": "card_007",
-    "characterName": "Kadınlar Ağası",
-    "imageName": "kadinlaragasi",
-    "text": "Kadınlar Ağası Saray mutfağında yemek zehirlenmesi yaşandı.",
-    "leftOption": "İncele",
-    "rightOption": "Dua et",
-    "leftEconomyEffect": 1,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": -1,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": 3,
-    "rightMilitaryEffect": 5,
-    "rightReligionEffect": -2,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_008",
-    "characterName": "Harem Ağası",
-    "imageName": "haremagasi",
-    "text": "Harem Ağası Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Teşvik et",
-    "leftEconomyEffect": -5,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 3,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": 2,
-    "tags": [
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_009",
-    "characterName": "Tüccar",
-    "imageName": "tuccar",
-    "text": "Tüccar Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": -5,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": 5,
-    "rightMilitaryEffect": -1,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": 5,
-    "tags": [
-      "mistik",
-      "tarikat"
-    ]
-  },
-  {
-    "id": "card_010",
-    "characterName": "Harem Ağası",
-    "imageName": "haremagasi",
-    "text": "Harem Ağası Kervan yollarında eşkıyalar türedi.",
-    "leftOption": "Engelle",
-    "rightOption": "Yardım gönder",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": 3,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": -4,
-    "rightEconomyEffect": -2,
-    "rightMilitaryEffect": 1,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": 2,
-    "tags": [
-      "ordu",
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_011",
-    "characterName": "Veliaht Şehzade",
-    "imageName": "sehzade",
-    "text": "Veliaht Şehzade Kervan yollarında eşkıyalar türedi.",
-    "leftOption": "Engelle",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": -1,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": -3,
-    "rightEconomyEffect": -1,
-    "rightMilitaryEffect": -3,
-    "rightReligionEffect": 4,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "tarikat",
-      "ihanet"
-    ]
-  },
-  {
-    "id": "card_012",
-    "characterName": "Gizli Hanedan Lideri",
-    "imageName": "gizlihanedan",
-    "text": "Gizli Hanedan Lideri Bazı beylerbeyler vergi vermeyi reddediyor.",
-    "leftOption": "Destekle",
-    "rightOption": "Yardım gönder",
-    "leftEconomyEffect": 0,
-    "leftMilitaryEffect": 0,
-    "leftReligionEffect": 0,
-    "leftPeopleEffect": -2,
-    "rightEconomyEffect": 4,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": 5,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "halk"
-    ]
-  },
-  {
-    "id": "card_013",
-    "characterName": "Sadık Uşak",
-    "imageName": "usak",
-    "text": "Sadık Uşak Halk arasında tarikatların çoğaldığını söyledi.",
-    "leftOption": "Ferman çıkar",
-    "rightOption": "Cezalandır",
-    "leftEconomyEffect": 5,
-    "leftMilitaryEffect": 4,
-    "leftReligionEffect": -1,
-    "leftPeopleEffect": -3,
-    "rightEconomyEffect": 1,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "isyan",
-      "mucize"
-    ]
-  },
-  {
-    "id": "card_014",
-    "characterName": "Kadınlar Ağası",
-    "imageName": "kadinlaragasi",
-    "text": "Kadınlar Ağası Sarayda huzursuzluk çıktığını bildirdi.",
-    "leftOption": "Engelle",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": 1,
-    "leftReligionEffect": 2,
-    "leftPeopleEffect": 3,
-    "rightEconomyEffect": 0,
-    "rightMilitaryEffect": -3,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": 5,
-    "tags": [
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_015",
-    "characterName": "Kadınlar Ağası",
-    "imageName": "kadinlaragasi",
-    "text": "Kadınlar Ağası Bazı beylerbeyler vergi vermeyi reddediyor.",
-    "leftOption": "İncele",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": -5,
-    "leftMilitaryEffect": 1,
-    "leftReligionEffect": 3,
-    "leftPeopleEffect": 4,
-    "rightEconomyEffect": -5,
-    "rightMilitaryEffect": -4,
-    "rightReligionEffect": -1,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "isyan"
-    ]
-  },
-  {
-    "id": "card_016",
-    "characterName": "Çiftçi",
-    "imageName": "ciftci",
-    "text": "Çiftçi Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
-    "leftOption": "İncele",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": 0,
-    "leftMilitaryEffect": -1,
-    "leftReligionEffect": 4,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": -3,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": -1,
-    "tags": [
-      "tarikat"
-    ]
-  },
-  {
-    "id": "card_017",
-    "characterName": "Çiftçi",
-    "imageName": "ciftci",
-    "text": "Çiftçi Sadaka dağıtımı adaletsiz yapılıyor.",
-    "leftOption": "Reddet",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": -1,
-    "leftMilitaryEffect": 4,
-    "leftReligionEffect": 2,
-    "leftPeopleEffect": -4,
-    "rightEconomyEffect": 4,
-    "rightMilitaryEffect": -4,
-    "rightReligionEffect": -2,
-    "rightPeopleEffect": 4,
-    "tags": [
-      "reform"
-    ]
-  },
-  {
-    "id": "card_018",
-    "characterName": "Başvezir",
-    "imageName": "vezir",
-    "text": "Başvezir Kervan yollarında eşkıyalar türedi.",
-    "leftOption": "İzin ver",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": 3,
-    "leftMilitaryEffect": 5,
-    "leftReligionEffect": -1,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": -3,
-    "rightMilitaryEffect": 5,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": -1,
-    "tags": [
-      "ordu",
-      "ihanet"
-    ]
-  },
-  {
-    "id": "card_019",
-    "characterName": "Sadık Uşak",
-    "imageName": "usak",
-    "text": "Sadık Uşak Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
-    "leftOption": "Uyar",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": -1,
-    "leftReligionEffect": -5,
-    "leftPeopleEffect": 1,
-    "rightEconomyEffect": 3,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": -1,
-    "rightPeopleEffect": -3,
-    "tags": [
-      "ekonomi",
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_020",
-    "characterName": "Şeyhülislam",
-    "imageName": "seyhulislam",
-    "text": "Şeyhülislam İstanbul’da büyük bir yangın çıktı.",
-    "leftOption": "Destekle",
-    "rightOption": "Görmezden gel",
-    "leftEconomyEffect": 3,
-    "leftMilitaryEffect": -3,
-    "leftReligionEffect": 0,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": -2,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": -3,
-    "rightPeopleEffect": 2,
-    "tags": [
-      "din"
-    ]
-  },
-  {
-    "id": "card_021",
-    "characterName": "Müneccim",
-    "imageName": "muneccim",
-    "text": "Müneccim Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
-    "leftOption": "Reddet",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": 3,
-    "leftPeopleEffect": 2,
-    "rightEconomyEffect": -1,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": 5,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "mistik",
-      "isyan"
-    ]
-  },
-  {
-    "id": "card_022",
-    "characterName": "Çiftçi",
-    "imageName": "ciftci",
-    "text": "Çiftçi Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
-    "leftOption": "Göz yumul",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": -1,
-    "rightMilitaryEffect": 5,
-    "rightReligionEffect": 3,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "mucize"
-    ]
-  },
-  {
-    "id": "card_023",
-    "characterName": "Gizli Hanedan Lideri",
-    "imageName": "gizlihanedan",
-    "text": "Gizli Hanedan Lideri Kervan yollarında eşkıyalar türedi.",
-    "leftOption": "Destekle",
-    "rightOption": "Teşvik et",
-    "leftEconomyEffect": 5,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": 2,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": -5,
-    "rightMilitaryEffect": -4,
-    "rightReligionEffect": -1,
-    "rightPeopleEffect": 0,
-    "tags": [
-      "mucize"
-    ]
-  },
-  {
-    "id": "card_024",
-    "characterName": "Tüccar",
-    "imageName": "tuccar",
-    "text": "Tüccar Halk arasında tarikatların çoğaldığını söyledi.",
-    "leftOption": "Engelle",
-    "rightOption": "Görmezden gel",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": -5,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": 0,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "ihanet",
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_025",
-    "characterName": "Şeyhülislam",
-    "imageName": "seyhulislam",
-    "text": "Şeyhülislam Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
-    "leftOption": "İzin ver",
-    "rightOption": "Şura topla",
-    "leftEconomyEffect": -1,
-    "leftMilitaryEffect": 4,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": 1,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": -3,
-    "rightReligionEffect": 0,
-    "rightPeopleEffect": 0,
-    "tags": [
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_026",
-    "characterName": "Tüccar",
-    "imageName": "tuccar",
-    "text": "Tüccar Bazı beylerbeyler vergi vermeyi reddediyor.",
-    "leftOption": "Reddet",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": 1,
-    "leftPeopleEffect": 2,
-    "rightEconomyEffect": 5,
-    "rightMilitaryEffect": -2,
-    "rightReligionEffect": 2,
-    "rightPeopleEffect": 4,
-    "tags": [
-      "halk",
-      "ordu"
-    ]
-  },
-  {
-    "id": "card_027",
-    "characterName": "Reis",
-    "imageName": "reis",
-    "text": "Reis Sarayda huzursuzluk çıktığını bildirdi.",
-    "leftOption": "İncele",
-    "rightOption": "Dua et",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": 1,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": 3,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "ekonomi"
-    ]
-  },
-  {
-    "id": "card_028",
-    "characterName": "Başvezir",
-    "imageName": "vezir",
-    "text": "Başvezir Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
-    "leftOption": "Destekle",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": 5,
-    "leftMilitaryEffect": 0,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": -2,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": -3,
-    "rightReligionEffect": -3,
-    "rightPeopleEffect": 0,
-    "tags": [
-      "gizli_ajanda",
-      "isyan"
-    ]
-  },
-  {
-    "id": "card_029",
-    "characterName": "Kadınlar Ağası",
-    "imageName": "kadinlaragasi",
-    "text": "Kadınlar Ağası Bir tarikat lideri kendini mehdi ilan etti.",
-    "leftOption": "Uyar",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": -2,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": 2,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": 5,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_030",
-    "characterName": "Defterdar",
-    "imageName": "defterdar",
-    "text": "Defterdar Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": 1,
-    "leftReligionEffect": -1,
-    "leftPeopleEffect": -4,
-    "rightEconomyEffect": -3,
-    "rightMilitaryEffect": 5,
-    "rightReligionEffect": 2,
-    "rightPeopleEffect": -1,
-    "tags": [
-      "elçilik",
-      "ordu"
-    ]
-  },
-  {
-    "id": "card_031",
-    "characterName": "Tüccar",
-    "imageName": "tuccar",
-    "text": "Tüccar Bir tarikat lideri kendini mehdi ilan etti.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": 1,
-    "leftReligionEffect": 1,
-    "leftPeopleEffect": -3,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": 2,
-    "rightPeopleEffect": 4,
-    "tags": [
-      "ekonomi"
-    ]
-  },
-  {
-    "id": "card_032",
-    "characterName": "Gizli Hanedan Lideri",
-    "imageName": "gizlihanedan",
-    "text": "Gizli Hanedan Lideri Saray mutfağında yemek zehirlenmesi yaşandı.",
-    "leftOption": "Reddet",
-    "rightOption": "Teşvik et",
-    "leftEconomyEffect": -1,
-    "leftMilitaryEffect": -5,
-    "leftReligionEffect": 0,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": -1,
-    "rightMilitaryEffect": 5,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": -3,
-    "tags": [
-      "halk",
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_033",
-    "characterName": "Elçi",
-    "imageName": "elci",
-    "text": "Elçi Medrese öğrencileri ayaklandı.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Dua et",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": 4,
-    "leftReligionEffect": 4,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": -1,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": -3,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "tarikat",
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_034",
-    "characterName": "Müneccim",
-    "imageName": "muneccim",
-    "text": "Müneccim Bazı beylerbeyler vergi vermeyi reddediyor.",
-    "leftOption": "Engelle",
-    "rightOption": "Yardım gönder",
-    "leftEconomyEffect": -2,
-    "leftMilitaryEffect": -5,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": -5,
-    "rightReligionEffect": 4,
-    "rightPeopleEffect": 2,
-    "tags": [
-      "halk",
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_035",
-    "characterName": "Defterdar",
-    "imageName": "defterdar",
-    "text": "Defterdar Bir tarikat lideri kendini mehdi ilan etti.",
-    "leftOption": "Uyar",
-    "rightOption": "Dua et",
-    "leftEconomyEffect": 0,
-    "leftMilitaryEffect": -5,
-    "leftReligionEffect": 0,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": 4,
-    "rightPeopleEffect": -4,
-    "tags": [
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_036",
-    "characterName": "Derviş",
-    "imageName": "dervis",
-    "text": "Derviş Bir cariye saray sırlarını dışarı sızdırdı.",
-    "leftOption": "İncele",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": -3,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": 3,
-    "rightMilitaryEffect": -2,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "mucize",
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_037",
-    "characterName": "Sadık Uşak",
-    "imageName": "usak",
-    "text": "Sadık Uşak Sadaka dağıtımı adaletsiz yapılıyor.",
-    "leftOption": "Reddet",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": -2,
-    "leftMilitaryEffect": -3,
-    "leftReligionEffect": 4,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": 0,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": 3,
-    "tags": [
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_038",
-    "characterName": "Derviş",
-    "imageName": "dervis",
-    "text": "Derviş Halk arasında tarikatların çoğaldığını söyledi.",
-    "leftOption": "Uyar",
-    "rightOption": "Şura topla",
-    "leftEconomyEffect": 1,
-    "leftMilitaryEffect": 0,
-    "leftReligionEffect": -5,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": 0,
-    "rightMilitaryEffect": -5,
-    "rightReligionEffect": -3,
-    "rightPeopleEffect": 0,
-    "tags": [
-      "reform"
-    ]
-  },
-  {
-    "id": "card_039",
-    "characterName": "Başvezir",
-    "imageName": "vezir",
-    "text": "Başvezir Halk arasında tarikatların çoğaldığını söyledi.",
-    "leftOption": "Ferman çıkar",
-    "rightOption": "Görmezden gel",
-    "leftEconomyEffect": -5,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": 2,
-    "rightEconomyEffect": 0,
-    "rightMilitaryEffect": 0,
-    "rightReligionEffect": 5,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "tarikat",
-      "ihanet"
-    ]
-  },
-  {
-    "id": "card_040",
-    "characterName": "Elçi",
-    "imageName": "elci",
-    "text": "Elçi Toprak reformu isteyen köylüler dilekçe verdi.",
-    "leftOption": "İzin ver",
-    "rightOption": "Teşvik et",
-    "leftEconomyEffect": 0,
-    "leftMilitaryEffect": 1,
-    "leftReligionEffect": 4,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 5,
-    "rightMilitaryEffect": -4,
-    "rightReligionEffect": -2,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "mucize",
-      "halk"
-    ]
-  },
-  {
-    "id": "card_041",
-    "characterName": "Derviş",
-    "imageName": "dervis",
-    "text": "Derviş Yeni vergiler hakkında öneride bulundu.",
-    "leftOption": "Ferman çıkar",
-    "rightOption": "Görmezden gel",
-    "leftEconomyEffect": 5,
-    "leftMilitaryEffect": -5,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": -3,
-    "rightEconomyEffect": -5,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": 0,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "ekonomi"
-    ]
-  },
-  {
-    "id": "card_042",
-    "characterName": "Reis",
-    "imageName": "reis",
-    "text": "Reis Yeni vergiler hakkında öneride bulundu.",
-    "leftOption": "Engelle",
-    "rightOption": "Cezalandır",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": -4,
-    "rightEconomyEffect": 4,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": -3,
-    "tags": [
-      "din"
-    ]
-  },
-  {
-    "id": "card_043",
-    "characterName": "Derviş",
-    "imageName": "dervis",
-    "text": "Derviş Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
-    "leftOption": "Ferman çıkar",
-    "rightOption": "Yardım gönder",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 4,
-    "rightMilitaryEffect": -5,
-    "rightReligionEffect": 3,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "mistik",
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_044",
-    "characterName": "Derviş",
-    "imageName": "dervis",
-    "text": "Derviş Toprak reformu isteyen köylüler dilekçe verdi.",
-    "leftOption": "İzin ver",
-    "rightOption": "Dua et",
-    "leftEconomyEffect": 1,
-    "leftMilitaryEffect": 4,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": -4,
-    "rightReligionEffect": -2,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "isyan",
-      "tarikat"
-    ]
-  },
-  {
-    "id": "card_045",
-    "characterName": "Yeniçeri Ağası",
-    "imageName": "yeniceri",
-    "text": "Yeniçeri Ağası Bir tarikat lideri kendini mehdi ilan etti.",
-    "leftOption": "Engelle",
-    "rightOption": "Teşvik et",
-    "leftEconomyEffect": -2,
-    "leftMilitaryEffect": 0,
-    "leftReligionEffect": 3,
-    "leftPeopleEffect": -3,
-    "rightEconomyEffect": 3,
-    "rightMilitaryEffect": 1,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "tarikat",
-      "ekonomi"
-    ]
-  },
-  {
-    "id": "card_046",
-    "characterName": "Kadınlar Ağası",
-    "imageName": "kadinlaragasi",
-    "text": "Kadınlar Ağası Sadaka dağıtımı adaletsiz yapılıyor.",
-    "leftOption": "Sürgün et",
-    "rightOption": "Görmezden gel",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": 5,
-    "rightPeopleEffect": 2,
-    "tags": [
-      "mucize"
-    ]
-  },
-  {
-    "id": "card_047",
-    "characterName": "Derviş",
-    "imageName": "dervis",
-    "text": "Derviş Yeni vergiler hakkında öneride bulundu.",
-    "leftOption": "Reddet",
-    "rightOption": "Dua et",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": 3,
-    "rightEconomyEffect": 1,
-    "rightMilitaryEffect": -5,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": -4,
-    "tags": [
-      "tarikat",
-      "gizli_ajanda"
-    ]
-  },
-  {
-    "id": "card_048",
-    "characterName": "Elçi",
-    "imageName": "elci",
-    "text": "Elçi Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
-    "leftOption": "Sürgün et",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": -2,
-    "leftMilitaryEffect": 0,
-    "leftReligionEffect": 1,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": -5,
-    "rightMilitaryEffect": -1,
-    "rightReligionEffect": -3,
-    "rightPeopleEffect": -4,
-    "tags": [
-      "isyan",
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_049",
-    "characterName": "Gizli Hanedan Lideri",
-    "imageName": "gizlihanedan",
-    "text": "Gizli Hanedan Lideri Sarayda huzursuzluk çıktığını bildirdi.",
-    "leftOption": "Uyar",
-    "rightOption": "Cezalandır",
-    "leftEconomyEffect": 3,
-    "leftMilitaryEffect": 1,
-    "leftReligionEffect": 1,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 3,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_050",
-    "characterName": "Elçi",
-    "imageName": "elci",
-    "text": "Elçi Bir cariye saray sırlarını dışarı sızdırdı.",
-    "leftOption": "İzin ver",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": 5,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": 1,
-    "rightEconomyEffect": 4,
-    "rightMilitaryEffect": -5,
-    "rightReligionEffect": 5,
-    "rightPeopleEffect": -3,
-    "tags": [
-      "din"
-    ]
-  },
-  {
-    "id": "card_051",
-    "characterName": "Sadık Uşak",
-    "imageName": "usak",
-    "text": "Sadık Uşak Bir cariye saray sırlarını dışarı sızdırdı.",
-    "leftOption": "Engelle",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": 5,
-    "leftReligionEffect": 0,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 5,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": 3,
-    "rightPeopleEffect": 3,
-    "tags": [
-      "halk",
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_052",
-    "characterName": "Veliaht Şehzade",
-    "imageName": "sehzade",
-    "text": "Veliaht Şehzade Sarayda huzursuzluk çıktığını bildirdi.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": 4,
-    "rightMilitaryEffect": 0,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "ekonomi",
-      "tarikat"
-    ]
-  },
-  {
-    "id": "card_053",
-    "characterName": "Müneccim",
-    "imageName": "muneccim",
-    "text": "Müneccim Bir tarikat lideri kendini mehdi ilan etti.",
-    "leftOption": "İzin ver",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": -5,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 1,
-    "rightMilitaryEffect": -1,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "ekonomi",
-      "tarikat"
-    ]
-  },
-  {
-    "id": "card_054",
-    "characterName": "Başvezir",
-    "imageName": "vezir",
-    "text": "Başvezir Sadaka dağıtımı adaletsiz yapılıyor.",
-    "leftOption": "Engelle",
-    "rightOption": "Yardım gönder",
-    "leftEconomyEffect": -5,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 1,
-    "rightMilitaryEffect": -4,
-    "rightReligionEffect": 0,
-    "rightPeopleEffect": 4,
-    "tags": [
-      "halk",
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_055",
-    "characterName": "Sadık Uşak",
-    "imageName": "usak",
-    "text": "Sadık Uşak Medrese öğrencileri ayaklandı.",
-    "leftOption": "İncele",
-    "rightOption": "Cezalandır",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": -5,
-    "leftReligionEffect": 3,
-    "leftPeopleEffect": -4,
-    "rightEconomyEffect": -3,
-    "rightMilitaryEffect": 1,
-    "rightReligionEffect": -3,
-    "rightPeopleEffect": 3,
-    "tags": [
-      "din",
-      "ekonomi"
-    ]
-  },
-  {
-    "id": "card_056",
-    "characterName": "Harem Ağası",
-    "imageName": "haremagasi",
-    "text": "Harem Ağası Kervan yollarında eşkıyalar türedi.",
-    "leftOption": "Ferman çıkar",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": 5,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": 0,
-    "leftPeopleEffect": 3,
-    "rightEconomyEffect": 1,
-    "rightMilitaryEffect": -1,
-    "rightReligionEffect": 3,
-    "rightPeopleEffect": -3,
-    "tags": [
-      "tarikat"
-    ]
-  },
-  {
-    "id": "card_057",
-    "characterName": "Kadınlar Ağası",
-    "imageName": "kadinlaragasi",
-    "text": "Kadınlar Ağası Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
-    "leftOption": "Engelle",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": 1,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": -5,
-    "leftPeopleEffect": 1,
-    "rightEconomyEffect": -2,
-    "rightMilitaryEffect": -2,
-    "rightReligionEffect": -3,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "elçilik",
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_058",
-    "characterName": "Çiftçi",
-    "imageName": "ciftci",
-    "text": "Çiftçi Halk arasında tarikatların çoğaldığını söyledi.",
-    "leftOption": "İzin ver",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": 1,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": 1,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": -3,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_059",
-    "characterName": "Tüccar",
-    "imageName": "tuccar",
-    "text": "Tüccar Bir cariye saray sırlarını dışarı sızdırdı.",
-    "leftOption": "Destekle",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": 1,
-    "leftMilitaryEffect": -1,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": -5,
-    "rightEconomyEffect": 5,
-    "rightMilitaryEffect": 0,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": 2,
-    "tags": [
-      "isyan",
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_060",
-    "characterName": "Sadık Uşak",
-    "imageName": "usak",
-    "text": "Sadık Uşak Bazı beylerbeyler vergi vermeyi reddediyor.",
-    "leftOption": "Uyar",
-    "rightOption": "Dua et",
-    "leftEconomyEffect": 3,
-    "leftMilitaryEffect": 0,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": 3,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": 0,
-    "rightReligionEffect": 3,
-    "rightPeopleEffect": 5,
-    "tags": [
-      "tarikat",
-      "gizli_ajanda"
-    ]
-  },
-  {
-    "id": "card_061",
-    "characterName": "Şeyhülislam",
-    "imageName": "seyhulislam",
-    "text": "Şeyhülislam Bazı beylerbeyler vergi vermeyi reddediyor.",
-    "leftOption": "Uyar",
-    "rightOption": "Şura topla",
-    "leftEconomyEffect": -5,
-    "leftMilitaryEffect": 4,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": -2,
-    "rightMilitaryEffect": 0,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": 4,
-    "tags": [
-      "mucize",
-      "tarikat"
-    ]
-  },
-  {
-    "id": "card_062",
-    "characterName": "Defterdar",
-    "imageName": "defterdar",
-    "text": "Defterdar Bazı beylerbeyler vergi vermeyi reddediyor.",
-    "leftOption": "İzin ver",
-    "rightOption": "Teşvik et",
-    "leftEconomyEffect": -1,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": -1,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 4,
-    "rightMilitaryEffect": 1,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": 0,
-    "tags": [
-      "gizli_ajanda",
-      "tarikat"
-    ]
-  },
-  {
-    "id": "card_063",
-    "characterName": "Harem Ağası",
-    "imageName": "haremagasi",
-    "text": "Harem Ağası İstanbul’da büyük bir yangın çıktı.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": -5,
-    "leftMilitaryEffect": 4,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": -3,
-    "rightPeopleEffect": -1,
-    "tags": [
-      "tarikat"
-    ]
-  },
-  {
-    "id": "card_064",
-    "characterName": "Müneccim",
-    "imageName": "muneccim",
-    "text": "Müneccim Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
-    "leftOption": "Engelle",
-    "rightOption": "Şura topla",
-    "leftEconomyEffect": -2,
-    "leftMilitaryEffect": 3,
-    "leftReligionEffect": 4,
-    "leftPeopleEffect": 1,
-    "rightEconomyEffect": 4,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": 0,
-    "tags": [
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_065",
-    "characterName": "Reis",
-    "imageName": "reis",
-    "text": "Reis Sarayda huzursuzluk çıktığını bildirdi.",
-    "leftOption": "İzin ver",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": 1,
-    "leftReligionEffect": -5,
-    "leftPeopleEffect": 4,
-    "rightEconomyEffect": 1,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": 3,
-    "rightPeopleEffect": -4,
-    "tags": [
-      "halk"
-    ]
-  },
-  {
-    "id": "card_066",
-    "characterName": "Sadık Uşak",
-    "imageName": "usak",
-    "text": "Sadık Uşak Bir tarikat lideri kendini mehdi ilan etti.",
-    "leftOption": "Sürgün et",
-    "rightOption": "Cezalandır",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": -1,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": -1,
-    "rightMilitaryEffect": -3,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": -3,
-    "tags": [
-      "mistik",
-      "halk"
-    ]
-  },
-  {
-    "id": "card_067",
-    "characterName": "Tüccar",
-    "imageName": "tuccar",
-    "text": "Tüccar İstanbul’da büyük bir yangın çıktı.",
-    "leftOption": "Sürgün et",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 0,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": 4,
-    "rightPeopleEffect": -4,
-    "tags": [
-      "mistik",
-      "din"
-    ]
-  },
-  {
-    "id": "card_068",
-    "characterName": "Şeyhülislam",
-    "imageName": "seyhulislam",
-    "text": "Şeyhülislam Sadaka dağıtımı adaletsiz yapılıyor.",
-    "leftOption": "Destekle",
-    "rightOption": "Şura topla",
-    "leftEconomyEffect": 3,
-    "leftMilitaryEffect": -1,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": 1,
-    "rightEconomyEffect": -1,
-    "rightMilitaryEffect": -5,
-    "rightReligionEffect": 3,
-    "rightPeopleEffect": 5,
-    "tags": [
-      "halk",
-      "mucize"
-    ]
-  },
-  {
-    "id": "card_069",
-    "characterName": "Reis",
-    "imageName": "reis",
-    "text": "Reis Yeni vergiler hakkında öneride bulundu.",
-    "leftOption": "Uyar",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": -3,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 4,
-    "rightMilitaryEffect": -3,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": 3,
-    "tags": [
-      "ordu"
-    ]
-  },
-  {
-    "id": "card_070",
-    "characterName": "Kadınlar Ağası",
-    "imageName": "kadinlaragasi",
-    "text": "Kadınlar Ağası Bir cariye saray sırlarını dışarı sızdırdı.",
-    "leftOption": "İncele",
-    "rightOption": "Yardım gönder",
-    "leftEconomyEffect": -5,
-    "leftMilitaryEffect": 3,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": -3,
-    "rightMilitaryEffect": 1,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": -3,
-    "tags": [
-      "din",
-      "ihanet"
-    ]
-  },
-  {
-    "id": "card_071",
-    "characterName": "Elçi",
-    "imageName": "elci",
-    "text": "Elçi Sadaka dağıtımı adaletsiz yapılıyor.",
-    "leftOption": "Destekle",
-    "rightOption": "Görmezden gel",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": 4,
-    "rightEconomyEffect": -3,
-    "rightMilitaryEffect": -1,
-    "rightReligionEffect": 5,
-    "rightPeopleEffect": 2,
-    "tags": [
-      "din",
-      "reform"
-    ]
-  },
-  {
-    "id": "card_072",
-    "characterName": "Veliaht Şehzade",
-    "imageName": "sehzade",
-    "text": "Veliaht Şehzade Toprak reformu isteyen köylüler dilekçe verdi.",
-    "leftOption": "Engelle",
-    "rightOption": "Dua et",
-    "leftEconomyEffect": -1,
-    "leftMilitaryEffect": -5,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 3,
-    "rightMilitaryEffect": 5,
-    "rightReligionEffect": -1,
-    "rightPeopleEffect": -4,
-    "tags": [
-      "ihanet",
-      "elçilik"
-    ]
-  },
-  {
-    "id": "card_073",
-    "characterName": "Defterdar",
-    "imageName": "defterdar",
-    "text": "Defterdar Sadaka dağıtımı adaletsiz yapılıyor.",
-    "leftOption": "Göz yumul",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": -5,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": -2,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": -1,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": -3,
-    "tags": [
-      "ekonomi",
-      "din"
-    ]
-  },
-  {
-    "id": "card_074",
-    "characterName": "Elçi",
-    "imageName": "elci",
-    "text": "Elçi Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
-    "leftOption": "Reddet",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": 3,
-    "leftMilitaryEffect": 3,
-    "leftReligionEffect": 4,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 0,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "ekonomi",
-      "reform"
-    ]
-  },
-  {
-    "id": "card_075",
-    "characterName": "Tüccar",
-    "imageName": "tuccar",
-    "text": "Tüccar Bir cariye saray sırlarını dışarı sızdırdı.",
-    "leftOption": "Destekle",
-    "rightOption": "Şura topla",
-    "leftEconomyEffect": 0,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": 3,
-    "leftPeopleEffect": 3,
-    "rightEconomyEffect": 5,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": 0,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "ihanet"
-    ]
-  },
-  {
-    "id": "card_076",
-    "characterName": "Başvezir",
-    "imageName": "vezir",
-    "text": "Başvezir Saray mutfağında yemek zehirlenmesi yaşandı.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": 5,
-    "leftReligionEffect": 1,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": -2,
-    "rightMilitaryEffect": -1,
-    "rightReligionEffect": 5,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "mucize"
-    ]
-  },
-  {
-    "id": "card_077",
-    "characterName": "Reis",
-    "imageName": "reis",
-    "text": "Reis Toprak reformu isteyen köylüler dilekçe verdi.",
-    "leftOption": "Uyar",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": -1,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": -3,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 1,
-    "rightMilitaryEffect": -5,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "tarikat",
-      "ihanet"
-    ]
-  },
-  {
-    "id": "card_078",
-    "characterName": "Sadık Uşak",
-    "imageName": "usak",
-    "text": "Sadık Uşak Sadaka dağıtımı adaletsiz yapılıyor.",
-    "leftOption": "İzin ver",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": 5,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": 4,
-    "leftPeopleEffect": -2,
-    "rightEconomyEffect": -1,
-    "rightMilitaryEffect": 0,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "isyan",
-      "halk"
-    ]
-  },
-  {
-    "id": "card_079",
-    "characterName": "Reis",
-    "imageName": "reis",
-    "text": "Reis Halk arasında tarikatların çoğaldığını söyledi.",
-    "leftOption": "Engelle",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": 1,
-    "leftMilitaryEffect": -1,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": 4,
-    "rightPeopleEffect": 5,
-    "tags": [
-      "reform"
-    ]
-  },
-  {
-    "id": "card_080",
-    "characterName": "Sadık Uşak",
-    "imageName": "usak",
-    "text": "Sadık Uşak İstanbul’da büyük bir yangın çıktı.",
-    "leftOption": "Göz yumul",
-    "rightOption": "Cezalandır",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": 4,
-    "leftReligionEffect": 1,
-    "leftPeopleEffect": 2,
-    "rightEconomyEffect": -5,
-    "rightMilitaryEffect": -2,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "gizli_ajanda"
-    ]
-  },
-  {
-    "id": "card_081",
-    "characterName": "Tüccar",
-    "imageName": "tuccar",
-    "text": "Tüccar Yeni vergiler hakkında öneride bulundu.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Görmezden gel",
-    "leftEconomyEffect": -5,
-    "leftMilitaryEffect": 4,
-    "leftReligionEffect": 3,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": 4,
-    "tags": [
-      "mistik"
-    ]
-  },
-  {
-    "id": "card_082",
-    "characterName": "Harem Ağası",
-    "imageName": "haremagasi",
-    "text": "Harem Ağası Sarayda huzursuzluk çıktığını bildirdi.",
-    "leftOption": "Engelle",
-    "rightOption": "Dua et",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": 3,
-    "leftPeopleEffect": 4,
-    "rightEconomyEffect": 1,
-    "rightMilitaryEffect": 5,
-    "rightReligionEffect": 1,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "gizli_ajanda"
-    ]
-  },
-  {
-    "id": "card_083",
-    "characterName": "Müneccim",
-    "imageName": "muneccim",
-    "text": "Müneccim Bir tarikat lideri kendini mehdi ilan etti.",
-    "leftOption": "Reddet",
-    "rightOption": "Görmezden gel",
-    "leftEconomyEffect": -2,
-    "leftMilitaryEffect": -5,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": 2,
-    "rightEconomyEffect": 0,
-    "rightMilitaryEffect": -4,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "reform",
-      "halk"
-    ]
-  },
-  {
-    "id": "card_084",
-    "characterName": "Reis",
-    "imageName": "reis",
-    "text": "Reis Saray mutfağında yemek zehirlenmesi yaşandı.",
-    "leftOption": "Göz yumul",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": -1,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "ihanet",
-      "reform"
-    ]
-  },
-  {
-    "id": "card_085",
-    "characterName": "Şeyhülislam",
-    "imageName": "seyhulislam",
-    "text": "Şeyhülislam Bazı beylerbeyler vergi vermeyi reddediyor.",
-    "leftOption": "İzin ver",
-    "rightOption": "Yardım gönder",
-    "leftEconomyEffect": 4,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": 0,
-    "leftPeopleEffect": -3,
-    "rightEconomyEffect": 1,
-    "rightMilitaryEffect": 5,
-    "rightReligionEffect": 2,
-    "rightPeopleEffect": 4,
-    "tags": [
-      "tarikat",
-      "ekonomi"
-    ]
-  },
-  {
-    "id": "card_086",
-    "characterName": "Reis",
-    "imageName": "reis",
-    "text": "Reis Bir cariye saray sırlarını dışarı sızdırdı.",
-    "leftOption": "Göz yumul",
-    "rightOption": "Görüş",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": 3,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": 1,
-    "rightEconomyEffect": -3,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": -1,
-    "tags": [
-      "isyan"
-    ]
-  },
-  {
-    "id": "card_087",
-    "characterName": "Veliaht Şehzade",
-    "imageName": "sehzade",
-    "text": "Veliaht Şehzade Kervan yollarında eşkıyalar türedi.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": -5,
-    "leftReligionEffect": 1,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": -2,
-    "rightReligionEffect": 2,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "ekonomi",
-      "gizli_ajanda"
-    ]
-  },
-  {
-    "id": "card_088",
-    "characterName": "Harem Ağası",
-    "imageName": "haremagasi",
-    "text": "Harem Ağası Sadaka dağıtımı adaletsiz yapılıyor.",
-    "leftOption": "Uyar",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": -3,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": 2,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "din"
-    ]
-  },
-  {
-    "id": "card_089",
-    "characterName": "Kadınlar Ağası",
-    "imageName": "kadinlaragasi",
-    "text": "Kadınlar Ağası Yeni vergiler hakkında öneride bulundu.",
-    "leftOption": "Reddet",
-    "rightOption": "Cezalandır",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": -2,
-    "leftReligionEffect": 0,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": 0,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": -3,
-    "rightPeopleEffect": -1,
-    "tags": [
-      "ordu"
-    ]
-  },
-  {
-    "id": "card_090",
-    "characterName": "Sadık Uşak",
-    "imageName": "usak",
-    "text": "Sadık Uşak Bir tarikat lideri kendini mehdi ilan etti.",
-    "leftOption": "Ferman çıkar",
-    "rightOption": "Sessiz kal",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": 5,
-    "leftReligionEffect": 4,
-    "leftPeopleEffect": 1,
-    "rightEconomyEffect": -1,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": -2,
-    "rightPeopleEffect": -1,
-    "tags": [
-      "tarikat"
-    ]
-  },
-  {
-    "id": "card_091",
-    "characterName": "Şeyhülislam",
-    "imageName": "seyhulislam",
-    "text": "Şeyhülislam Sarayda huzursuzluk çıktığını bildirdi.",
-    "leftOption": "Gereğini yap",
-    "rightOption": "Teşvik et",
-    "leftEconomyEffect": 1,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": 4,
-    "leftPeopleEffect": -4,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": 2,
-    "rightReligionEffect": 3,
-    "rightPeopleEffect": -1,
-    "tags": [
-      "halk"
-    ]
-  },
-  {
-    "id": "card_092",
-    "characterName": "Elçi",
-    "imageName": "elci",
-    "text": "Elçi Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
-    "leftOption": "İncele",
-    "rightOption": "Görmezden gel",
-    "leftEconomyEffect": 1,
-    "leftMilitaryEffect": 0,
-    "leftReligionEffect": -5,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 5,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": 2,
-    "rightPeopleEffect": 0,
-    "tags": [
-      "ihanet"
-    ]
-  },
-  {
-    "id": "card_093",
-    "characterName": "Başvezir",
-    "imageName": "vezir",
-    "text": "Başvezir İstanbul’da büyük bir yangın çıktı.",
-    "leftOption": "Uyar",
-    "rightOption": "Görmezden gel",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": 3,
-    "leftPeopleEffect": 5,
-    "rightEconomyEffect": 0,
-    "rightMilitaryEffect": 4,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": 2,
-    "tags": [
-      "gizli_ajanda"
-    ]
-  },
-  {
-    "id": "card_094",
-    "characterName": "Veliaht Şehzade",
-    "imageName": "sehzade",
-    "text": "Veliaht Şehzade İstanbul’da büyük bir yangın çıktı.",
-    "leftOption": "Destekle",
-    "rightOption": "Şura topla",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": -3,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": 0,
-    "rightEconomyEffect": 5,
-    "rightMilitaryEffect": 3,
-    "rightReligionEffect": -2,
-    "rightPeopleEffect": 1,
-    "tags": [
-      "ekonomi",
-      "halk"
-    ]
-  },
-  {
-    "id": "card_095",
-    "characterName": "Harem Ağası",
-    "imageName": "haremagasi",
-    "text": "Harem Ağası Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
-    "leftOption": "Engelle",
-    "rightOption": "Şura topla",
-    "leftEconomyEffect": 2,
-    "leftMilitaryEffect": 0,
-    "leftReligionEffect": 0,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 0,
-    "rightMilitaryEffect": -2,
-    "rightReligionEffect": 4,
-    "rightPeopleEffect": -5,
-    "tags": [
-      "ekonomi",
-      "mucize"
-    ]
-  },
-  {
-    "id": "card_096",
-    "characterName": "Gizli Hanedan Lideri",
-    "imageName": "gizlihanedan",
-    "text": "Gizli Hanedan Lideri Bir tarikat lideri kendini mehdi ilan etti.",
-    "leftOption": "İncele",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": 4,
-    "leftMilitaryEffect": 0,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": -4,
-    "rightEconomyEffect": -3,
-    "rightMilitaryEffect": -3,
-    "rightReligionEffect": -4,
-    "rightPeopleEffect": 3,
-    "tags": [
-      "halk",
-      "din"
-    ]
-  },
-  {
-    "id": "card_097",
-    "characterName": "Müneccim",
-    "imageName": "muneccim",
-    "text": "Müneccim Bazı beylerbeyler vergi vermeyi reddediyor.",
-    "leftOption": "Reddet",
-    "rightOption": "Yardım gönder",
-    "leftEconomyEffect": -3,
-    "leftMilitaryEffect": 0,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": -1,
-    "rightEconomyEffect": 4,
-    "rightMilitaryEffect": 0,
-    "rightReligionEffect": 2,
-    "rightPeopleEffect": -2,
-    "tags": [
-      "gizli_ajanda",
-      "ekonomi"
-    ]
-  },
-  {
-    "id": "card_098",
-    "characterName": "Defterdar",
-    "imageName": "defterdar",
-    "text": "Defterdar Yeni vergiler hakkında öneride bulundu.",
-    "leftOption": "Göz yumul",
-    "rightOption": "Soruşturma başlat",
-    "leftEconomyEffect": 1,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": 5,
-    "leftPeopleEffect": -3,
-    "rightEconomyEffect": -4,
-    "rightMilitaryEffect": -5,
-    "rightReligionEffect": 4,
-    "rightPeopleEffect": 5,
-    "tags": [
-      "ihanet"
-    ]
-  },
-  {
-    "id": "card_099",
-    "characterName": "Tüccar",
-    "imageName": "tuccar",
-    "text": "Tüccar Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
-    "leftOption": "Engelle",
-    "rightOption": "Şura topla",
-    "leftEconomyEffect": -1,
-    "leftMilitaryEffect": 2,
-    "leftReligionEffect": -4,
-    "leftPeopleEffect": 1,
-    "rightEconomyEffect": -3,
-    "rightMilitaryEffect": 1,
-    "rightReligionEffect": -5,
-    "rightPeopleEffect": 3,
-    "tags": [
-      "ihanet",
-      "isyan"
-    ]
-  },
-  {
-    "id": "card_100",
-    "characterName": "Veliaht Şehzade",
-    "imageName": "sehzade",
-    "text": "Veliaht Şehzade Bir cariye saray sırlarını dışarı sızdırdı.",
-    "leftOption": "İzin ver",
-    "rightOption": "Kabul et",
-    "leftEconomyEffect": -4,
-    "leftMilitaryEffect": -4,
-    "leftReligionEffect": -2,
-    "leftPeopleEffect": -3,
-    "rightEconomyEffect": 2,
-    "rightMilitaryEffect": -1,
-    "rightReligionEffect": 2,
-    "rightPeopleEffect": -1,
-    "tags": [
-      "gizli_ajanda"
-    ]
-  }
-]
+{ "cards":
+  [
+    {
+      "id": "card_001",
+      "characterName": "Derviş",
+      "imageName": "dervis",
+      "text": "Derviş İstanbul’da büyük bir yangın çıktı.",
+      "leftOption": "Sürgün et",
+      "rightOption": "Cezalandır",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": 5,
+      "leftReligionEffect": 2,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": -5,
+      "rightMilitaryEffect": 0,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_002",
+      "characterName": "Kadınlar Ağası",
+      "imageName": "kadinlaragasi",
+      "text": "Kadınlar Ağası Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
+      "leftOption": "İncele",
+      "rightOption": "Cezalandır",
+      "leftEconomyEffect": -2,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": 1,
+      "leftPeopleEffect": 4,
+      "rightEconomyEffect": 1,
+      "rightMilitaryEffect": 1,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "ordu",
+        "isyan"
+      ]
+    },
+    {
+      "id": "card_003",
+      "characterName": "Derviş",
+      "imageName": "dervis",
+      "text": "Derviş Yeni vergiler hakkında öneride bulundu.",
+      "leftOption": "Göz yumul",
+      "rightOption": "Yardım gönder",
+      "leftEconomyEffect": 3,
+      "leftMilitaryEffect": -3,
+      "leftReligionEffect": 0,
+      "leftPeopleEffect": -2,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": 0,
+      "rightPeopleEffect": 3,
+      "tags": [
+        "elçilik",
+        "ihanet"
+      ]
+    },
+    {
+      "id": "card_004",
+      "characterName": "Yeniçeri Ağası",
+      "imageName": "yeniceri",
+      "text": "Yeniçeri Ağası Medrese öğrencileri ayaklandı.",
+      "leftOption": "Göz yumul",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": -1,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": 5,
+      "rightMilitaryEffect": -3,
+      "rightReligionEffect": -1,
+      "rightPeopleEffect": 3,
+      "tags": [
+        "mucize"
+      ]
+    },
+    {
+      "id": "card_005",
+      "characterName": "Yeniçeri Ağası",
+      "imageName": "yeniceri",
+      "text": "Yeniçeri Ağası Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
+      "leftOption": "Uyar",
+      "rightOption": "Cezalandır",
+      "leftEconomyEffect": -2,
+      "leftMilitaryEffect": 5,
+      "leftReligionEffect": 3,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": 5,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": 3,
+      "tags": [
+        "gizli_ajanda"
+      ]
+    },
+    {
+      "id": "card_006",
+      "characterName": "Elçi",
+      "imageName": "elci",
+      "text": "Elçi Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
+      "leftOption": "İzin ver",
+      "rightOption": "Yardım gönder",
+      "leftEconomyEffect": 0,
+      "leftMilitaryEffect": -5,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 3,
+      "rightMilitaryEffect": -5,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": -1,
+      "tags": [
+        "ihanet"
+      ]
+    },
+    {
+      "id": "card_007",
+      "characterName": "Kadınlar Ağası",
+      "imageName": "kadinlaragasi",
+      "text": "Kadınlar Ağası Saray mutfağında yemek zehirlenmesi yaşandı.",
+      "leftOption": "İncele",
+      "rightOption": "Dua et",
+      "leftEconomyEffect": 1,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": -1,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": 3,
+      "rightMilitaryEffect": 5,
+      "rightReligionEffect": -2,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_008",
+      "characterName": "Harem Ağası",
+      "imageName": "haremagasi",
+      "text": "Harem Ağası Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Teşvik et",
+      "leftEconomyEffect": -5,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 3,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": 2,
+      "tags": [
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_009",
+      "characterName": "Tüccar",
+      "imageName": "tuccar",
+      "text": "Tüccar Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": -5,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": 5,
+      "rightMilitaryEffect": -1,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": 5,
+      "tags": [
+        "mistik",
+        "tarikat"
+      ]
+    },
+    {
+      "id": "card_010",
+      "characterName": "Harem Ağası",
+      "imageName": "haremagasi",
+      "text": "Harem Ağası Kervan yollarında eşkıyalar türedi.",
+      "leftOption": "Engelle",
+      "rightOption": "Yardım gönder",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": 3,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": -4,
+      "rightEconomyEffect": -2,
+      "rightMilitaryEffect": 1,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": 2,
+      "tags": [
+        "ordu",
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_011",
+      "characterName": "Veliaht Şehzade",
+      "imageName": "sehzade",
+      "text": "Veliaht Şehzade Kervan yollarında eşkıyalar türedi.",
+      "leftOption": "Engelle",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": -1,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": -3,
+      "rightEconomyEffect": -1,
+      "rightMilitaryEffect": -3,
+      "rightReligionEffect": 4,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "tarikat",
+        "ihanet"
+      ]
+    },
+    {
+      "id": "card_012",
+      "characterName": "Gizli Hanedan Lideri",
+      "imageName": "gizlihanedan",
+      "text": "Gizli Hanedan Lideri Bazı beylerbeyler vergi vermeyi reddediyor.",
+      "leftOption": "Destekle",
+      "rightOption": "Yardım gönder",
+      "leftEconomyEffect": 0,
+      "leftMilitaryEffect": 0,
+      "leftReligionEffect": 0,
+      "leftPeopleEffect": -2,
+      "rightEconomyEffect": 4,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": 5,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "halk"
+      ]
+    },
+    {
+      "id": "card_013",
+      "characterName": "Sadık Uşak",
+      "imageName": "usak",
+      "text": "Sadık Uşak Halk arasında tarikatların çoğaldığını söyledi.",
+      "leftOption": "Ferman çıkar",
+      "rightOption": "Cezalandır",
+      "leftEconomyEffect": 5,
+      "leftMilitaryEffect": 4,
+      "leftReligionEffect": -1,
+      "leftPeopleEffect": -3,
+      "rightEconomyEffect": 1,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "isyan",
+        "mucize"
+      ]
+    },
+    {
+      "id": "card_014",
+      "characterName": "Kadınlar Ağası",
+      "imageName": "kadinlaragasi",
+      "text": "Kadınlar Ağası Sarayda huzursuzluk çıktığını bildirdi.",
+      "leftOption": "Engelle",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": 1,
+      "leftReligionEffect": 2,
+      "leftPeopleEffect": 3,
+      "rightEconomyEffect": 0,
+      "rightMilitaryEffect": -3,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": 5,
+      "tags": [
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_015",
+      "characterName": "Kadınlar Ağası",
+      "imageName": "kadinlaragasi",
+      "text": "Kadınlar Ağası Bazı beylerbeyler vergi vermeyi reddediyor.",
+      "leftOption": "İncele",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": -5,
+      "leftMilitaryEffect": 1,
+      "leftReligionEffect": 3,
+      "leftPeopleEffect": 4,
+      "rightEconomyEffect": -5,
+      "rightMilitaryEffect": -4,
+      "rightReligionEffect": -1,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "isyan"
+      ]
+    },
+    {
+      "id": "card_016",
+      "characterName": "Çiftçi",
+      "imageName": "ciftci",
+      "text": "Çiftçi Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
+      "leftOption": "İncele",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": 0,
+      "leftMilitaryEffect": -1,
+      "leftReligionEffect": 4,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": -3,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": -1,
+      "tags": [
+        "tarikat"
+      ]
+    },
+    {
+      "id": "card_017",
+      "characterName": "Çiftçi",
+      "imageName": "ciftci",
+      "text": "Çiftçi Sadaka dağıtımı adaletsiz yapılıyor.",
+      "leftOption": "Reddet",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": -1,
+      "leftMilitaryEffect": 4,
+      "leftReligionEffect": 2,
+      "leftPeopleEffect": -4,
+      "rightEconomyEffect": 4,
+      "rightMilitaryEffect": -4,
+      "rightReligionEffect": -2,
+      "rightPeopleEffect": 4,
+      "tags": [
+        "reform"
+      ]
+    },
+    {
+      "id": "card_018",
+      "characterName": "Başvezir",
+      "imageName": "vezir",
+      "text": "Başvezir Kervan yollarında eşkıyalar türedi.",
+      "leftOption": "İzin ver",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": 3,
+      "leftMilitaryEffect": 5,
+      "leftReligionEffect": -1,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": -3,
+      "rightMilitaryEffect": 5,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": -1,
+      "tags": [
+        "ordu",
+        "ihanet"
+      ]
+    },
+    {
+      "id": "card_019",
+      "characterName": "Sadık Uşak",
+      "imageName": "usak",
+      "text": "Sadık Uşak Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
+      "leftOption": "Uyar",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": -1,
+      "leftReligionEffect": -5,
+      "leftPeopleEffect": 1,
+      "rightEconomyEffect": 3,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": -1,
+      "rightPeopleEffect": -3,
+      "tags": [
+        "ekonomi",
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_020",
+      "characterName": "Şeyhülislam",
+      "imageName": "seyhulislam",
+      "text": "Şeyhülislam İstanbul’da büyük bir yangın çıktı.",
+      "leftOption": "Destekle",
+      "rightOption": "Görmezden gel",
+      "leftEconomyEffect": 3,
+      "leftMilitaryEffect": -3,
+      "leftReligionEffect": 0,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": -2,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": -3,
+      "rightPeopleEffect": 2,
+      "tags": [
+        "din"
+      ]
+    },
+    {
+      "id": "card_021",
+      "characterName": "Müneccim",
+      "imageName": "muneccim",
+      "text": "Müneccim Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
+      "leftOption": "Reddet",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": 3,
+      "leftPeopleEffect": 2,
+      "rightEconomyEffect": -1,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": 5,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "mistik",
+        "isyan"
+      ]
+    },
+    {
+      "id": "card_022",
+      "characterName": "Çiftçi",
+      "imageName": "ciftci",
+      "text": "Çiftçi Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
+      "leftOption": "Göz yumul",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": -1,
+      "rightMilitaryEffect": 5,
+      "rightReligionEffect": 3,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "mucize"
+      ]
+    },
+    {
+      "id": "card_023",
+      "characterName": "Gizli Hanedan Lideri",
+      "imageName": "gizlihanedan",
+      "text": "Gizli Hanedan Lideri Kervan yollarında eşkıyalar türedi.",
+      "leftOption": "Destekle",
+      "rightOption": "Teşvik et",
+      "leftEconomyEffect": 5,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": 2,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": -5,
+      "rightMilitaryEffect": -4,
+      "rightReligionEffect": -1,
+      "rightPeopleEffect": 0,
+      "tags": [
+        "mucize"
+      ]
+    },
+    {
+      "id": "card_024",
+      "characterName": "Tüccar",
+      "imageName": "tuccar",
+      "text": "Tüccar Halk arasında tarikatların çoğaldığını söyledi.",
+      "leftOption": "Engelle",
+      "rightOption": "Görmezden gel",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": -5,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": 0,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "ihanet",
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_025",
+      "characterName": "Şeyhülislam",
+      "imageName": "seyhulislam",
+      "text": "Şeyhülislam Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
+      "leftOption": "İzin ver",
+      "rightOption": "Şura topla",
+      "leftEconomyEffect": -1,
+      "leftMilitaryEffect": 4,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": 1,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": -3,
+      "rightReligionEffect": 0,
+      "rightPeopleEffect": 0,
+      "tags": [
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_026",
+      "characterName": "Tüccar",
+      "imageName": "tuccar",
+      "text": "Tüccar Bazı beylerbeyler vergi vermeyi reddediyor.",
+      "leftOption": "Reddet",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": 1,
+      "leftPeopleEffect": 2,
+      "rightEconomyEffect": 5,
+      "rightMilitaryEffect": -2,
+      "rightReligionEffect": 2,
+      "rightPeopleEffect": 4,
+      "tags": [
+        "halk",
+        "ordu"
+      ]
+    },
+    {
+      "id": "card_027",
+      "characterName": "Reis",
+      "imageName": "reis",
+      "text": "Reis Sarayda huzursuzluk çıktığını bildirdi.",
+      "leftOption": "İncele",
+      "rightOption": "Dua et",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": 1,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": 3,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "ekonomi"
+      ]
+    },
+    {
+      "id": "card_028",
+      "characterName": "Başvezir",
+      "imageName": "vezir",
+      "text": "Başvezir Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
+      "leftOption": "Destekle",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": 5,
+      "leftMilitaryEffect": 0,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": -2,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": -3,
+      "rightReligionEffect": -3,
+      "rightPeopleEffect": 0,
+      "tags": [
+        "gizli_ajanda",
+        "isyan"
+      ]
+    },
+    {
+      "id": "card_029",
+      "characterName": "Kadınlar Ağası",
+      "imageName": "kadinlaragasi",
+      "text": "Kadınlar Ağası Bir tarikat lideri kendini mehdi ilan etti.",
+      "leftOption": "Uyar",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": -2,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": 2,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": 5,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_030",
+      "characterName": "Defterdar",
+      "imageName": "defterdar",
+      "text": "Defterdar Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": 1,
+      "leftReligionEffect": -1,
+      "leftPeopleEffect": -4,
+      "rightEconomyEffect": -3,
+      "rightMilitaryEffect": 5,
+      "rightReligionEffect": 2,
+      "rightPeopleEffect": -1,
+      "tags": [
+        "elçilik",
+        "ordu"
+      ]
+    },
+    {
+      "id": "card_031",
+      "characterName": "Tüccar",
+      "imageName": "tuccar",
+      "text": "Tüccar Bir tarikat lideri kendini mehdi ilan etti.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": 1,
+      "leftReligionEffect": 1,
+      "leftPeopleEffect": -3,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": 2,
+      "rightPeopleEffect": 4,
+      "tags": [
+        "ekonomi"
+      ]
+    },
+    {
+      "id": "card_032",
+      "characterName": "Gizli Hanedan Lideri",
+      "imageName": "gizlihanedan",
+      "text": "Gizli Hanedan Lideri Saray mutfağında yemek zehirlenmesi yaşandı.",
+      "leftOption": "Reddet",
+      "rightOption": "Teşvik et",
+      "leftEconomyEffect": -1,
+      "leftMilitaryEffect": -5,
+      "leftReligionEffect": 0,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": -1,
+      "rightMilitaryEffect": 5,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": -3,
+      "tags": [
+        "halk",
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_033",
+      "characterName": "Elçi",
+      "imageName": "elci",
+      "text": "Elçi Medrese öğrencileri ayaklandı.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Dua et",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": 4,
+      "leftReligionEffect": 4,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": -1,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": -3,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "tarikat",
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_034",
+      "characterName": "Müneccim",
+      "imageName": "muneccim",
+      "text": "Müneccim Bazı beylerbeyler vergi vermeyi reddediyor.",
+      "leftOption": "Engelle",
+      "rightOption": "Yardım gönder",
+      "leftEconomyEffect": -2,
+      "leftMilitaryEffect": -5,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": -5,
+      "rightReligionEffect": 4,
+      "rightPeopleEffect": 2,
+      "tags": [
+        "halk",
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_035",
+      "characterName": "Defterdar",
+      "imageName": "defterdar",
+      "text": "Defterdar Bir tarikat lideri kendini mehdi ilan etti.",
+      "leftOption": "Uyar",
+      "rightOption": "Dua et",
+      "leftEconomyEffect": 0,
+      "leftMilitaryEffect": -5,
+      "leftReligionEffect": 0,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": 4,
+      "rightPeopleEffect": -4,
+      "tags": [
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_036",
+      "characterName": "Derviş",
+      "imageName": "dervis",
+      "text": "Derviş Bir cariye saray sırlarını dışarı sızdırdı.",
+      "leftOption": "İncele",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": -3,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": 3,
+      "rightMilitaryEffect": -2,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "mucize",
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_037",
+      "characterName": "Sadık Uşak",
+      "imageName": "usak",
+      "text": "Sadık Uşak Sadaka dağıtımı adaletsiz yapılıyor.",
+      "leftOption": "Reddet",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": -2,
+      "leftMilitaryEffect": -3,
+      "leftReligionEffect": 4,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": 0,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": 3,
+      "tags": [
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_038",
+      "characterName": "Derviş",
+      "imageName": "dervis",
+      "text": "Derviş Halk arasında tarikatların çoğaldığını söyledi.",
+      "leftOption": "Uyar",
+      "rightOption": "Şura topla",
+      "leftEconomyEffect": 1,
+      "leftMilitaryEffect": 0,
+      "leftReligionEffect": -5,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": 0,
+      "rightMilitaryEffect": -5,
+      "rightReligionEffect": -3,
+      "rightPeopleEffect": 0,
+      "tags": [
+        "reform"
+      ]
+    },
+    {
+      "id": "card_039",
+      "characterName": "Başvezir",
+      "imageName": "vezir",
+      "text": "Başvezir Halk arasında tarikatların çoğaldığını söyledi.",
+      "leftOption": "Ferman çıkar",
+      "rightOption": "Görmezden gel",
+      "leftEconomyEffect": -5,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": 2,
+      "rightEconomyEffect": 0,
+      "rightMilitaryEffect": 0,
+      "rightReligionEffect": 5,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "tarikat",
+        "ihanet"
+      ]
+    },
+    {
+      "id": "card_040",
+      "characterName": "Elçi",
+      "imageName": "elci",
+      "text": "Elçi Toprak reformu isteyen köylüler dilekçe verdi.",
+      "leftOption": "İzin ver",
+      "rightOption": "Teşvik et",
+      "leftEconomyEffect": 0,
+      "leftMilitaryEffect": 1,
+      "leftReligionEffect": 4,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 5,
+      "rightMilitaryEffect": -4,
+      "rightReligionEffect": -2,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "mucize",
+        "halk"
+      ]
+    },
+    {
+      "id": "card_041",
+      "characterName": "Derviş",
+      "imageName": "dervis",
+      "text": "Derviş Yeni vergiler hakkında öneride bulundu.",
+      "leftOption": "Ferman çıkar",
+      "rightOption": "Görmezden gel",
+      "leftEconomyEffect": 5,
+      "leftMilitaryEffect": -5,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": -3,
+      "rightEconomyEffect": -5,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": 0,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "ekonomi"
+      ]
+    },
+    {
+      "id": "card_042",
+      "characterName": "Reis",
+      "imageName": "reis",
+      "text": "Reis Yeni vergiler hakkında öneride bulundu.",
+      "leftOption": "Engelle",
+      "rightOption": "Cezalandır",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": -4,
+      "rightEconomyEffect": 4,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": -3,
+      "tags": [
+        "din"
+      ]
+    },
+    {
+      "id": "card_043",
+      "characterName": "Derviş",
+      "imageName": "dervis",
+      "text": "Derviş Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
+      "leftOption": "Ferman çıkar",
+      "rightOption": "Yardım gönder",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 4,
+      "rightMilitaryEffect": -5,
+      "rightReligionEffect": 3,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "mistik",
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_044",
+      "characterName": "Derviş",
+      "imageName": "dervis",
+      "text": "Derviş Toprak reformu isteyen köylüler dilekçe verdi.",
+      "leftOption": "İzin ver",
+      "rightOption": "Dua et",
+      "leftEconomyEffect": 1,
+      "leftMilitaryEffect": 4,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": -4,
+      "rightReligionEffect": -2,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "isyan",
+        "tarikat"
+      ]
+    },
+    {
+      "id": "card_045",
+      "characterName": "Yeniçeri Ağası",
+      "imageName": "yeniceri",
+      "text": "Yeniçeri Ağası Bir tarikat lideri kendini mehdi ilan etti.",
+      "leftOption": "Engelle",
+      "rightOption": "Teşvik et",
+      "leftEconomyEffect": -2,
+      "leftMilitaryEffect": 0,
+      "leftReligionEffect": 3,
+      "leftPeopleEffect": -3,
+      "rightEconomyEffect": 3,
+      "rightMilitaryEffect": 1,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "tarikat",
+        "ekonomi"
+      ]
+    },
+    {
+      "id": "card_046",
+      "characterName": "Kadınlar Ağası",
+      "imageName": "kadinlaragasi",
+      "text": "Kadınlar Ağası Sadaka dağıtımı adaletsiz yapılıyor.",
+      "leftOption": "Sürgün et",
+      "rightOption": "Görmezden gel",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": 5,
+      "rightPeopleEffect": 2,
+      "tags": [
+        "mucize"
+      ]
+    },
+    {
+      "id": "card_047",
+      "characterName": "Derviş",
+      "imageName": "dervis",
+      "text": "Derviş Yeni vergiler hakkında öneride bulundu.",
+      "leftOption": "Reddet",
+      "rightOption": "Dua et",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": 3,
+      "rightEconomyEffect": 1,
+      "rightMilitaryEffect": -5,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": -4,
+      "tags": [
+        "tarikat",
+        "gizli_ajanda"
+      ]
+    },
+    {
+      "id": "card_048",
+      "characterName": "Elçi",
+      "imageName": "elci",
+      "text": "Elçi Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
+      "leftOption": "Sürgün et",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": -2,
+      "leftMilitaryEffect": 0,
+      "leftReligionEffect": 1,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": -5,
+      "rightMilitaryEffect": -1,
+      "rightReligionEffect": -3,
+      "rightPeopleEffect": -4,
+      "tags": [
+        "isyan",
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_049",
+      "characterName": "Gizli Hanedan Lideri",
+      "imageName": "gizlihanedan",
+      "text": "Gizli Hanedan Lideri Sarayda huzursuzluk çıktığını bildirdi.",
+      "leftOption": "Uyar",
+      "rightOption": "Cezalandır",
+      "leftEconomyEffect": 3,
+      "leftMilitaryEffect": 1,
+      "leftReligionEffect": 1,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 3,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_050",
+      "characterName": "Elçi",
+      "imageName": "elci",
+      "text": "Elçi Bir cariye saray sırlarını dışarı sızdırdı.",
+      "leftOption": "İzin ver",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": 5,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": 1,
+      "rightEconomyEffect": 4,
+      "rightMilitaryEffect": -5,
+      "rightReligionEffect": 5,
+      "rightPeopleEffect": -3,
+      "tags": [
+        "din"
+      ]
+    },
+    {
+      "id": "card_051",
+      "characterName": "Sadık Uşak",
+      "imageName": "usak",
+      "text": "Sadık Uşak Bir cariye saray sırlarını dışarı sızdırdı.",
+      "leftOption": "Engelle",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": 5,
+      "leftReligionEffect": 0,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 5,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": 3,
+      "rightPeopleEffect": 3,
+      "tags": [
+        "halk",
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_052",
+      "characterName": "Veliaht Şehzade",
+      "imageName": "sehzade",
+      "text": "Veliaht Şehzade Sarayda huzursuzluk çıktığını bildirdi.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": 4,
+      "rightMilitaryEffect": 0,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "ekonomi",
+        "tarikat"
+      ]
+    },
+    {
+      "id": "card_053",
+      "characterName": "Müneccim",
+      "imageName": "muneccim",
+      "text": "Müneccim Bir tarikat lideri kendini mehdi ilan etti.",
+      "leftOption": "İzin ver",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": -5,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 1,
+      "rightMilitaryEffect": -1,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "ekonomi",
+        "tarikat"
+      ]
+    },
+    {
+      "id": "card_054",
+      "characterName": "Başvezir",
+      "imageName": "vezir",
+      "text": "Başvezir Sadaka dağıtımı adaletsiz yapılıyor.",
+      "leftOption": "Engelle",
+      "rightOption": "Yardım gönder",
+      "leftEconomyEffect": -5,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 1,
+      "rightMilitaryEffect": -4,
+      "rightReligionEffect": 0,
+      "rightPeopleEffect": 4,
+      "tags": [
+        "halk",
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_055",
+      "characterName": "Sadık Uşak",
+      "imageName": "usak",
+      "text": "Sadık Uşak Medrese öğrencileri ayaklandı.",
+      "leftOption": "İncele",
+      "rightOption": "Cezalandır",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": -5,
+      "leftReligionEffect": 3,
+      "leftPeopleEffect": -4,
+      "rightEconomyEffect": -3,
+      "rightMilitaryEffect": 1,
+      "rightReligionEffect": -3,
+      "rightPeopleEffect": 3,
+      "tags": [
+        "din",
+        "ekonomi"
+      ]
+    },
+    {
+      "id": "card_056",
+      "characterName": "Harem Ağası",
+      "imageName": "haremagasi",
+      "text": "Harem Ağası Kervan yollarında eşkıyalar türedi.",
+      "leftOption": "Ferman çıkar",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": 5,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": 0,
+      "leftPeopleEffect": 3,
+      "rightEconomyEffect": 1,
+      "rightMilitaryEffect": -1,
+      "rightReligionEffect": 3,
+      "rightPeopleEffect": -3,
+      "tags": [
+        "tarikat"
+      ]
+    },
+    {
+      "id": "card_057",
+      "characterName": "Kadınlar Ağası",
+      "imageName": "kadinlaragasi",
+      "text": "Kadınlar Ağası Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
+      "leftOption": "Engelle",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": 1,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": -5,
+      "leftPeopleEffect": 1,
+      "rightEconomyEffect": -2,
+      "rightMilitaryEffect": -2,
+      "rightReligionEffect": -3,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "elçilik",
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_058",
+      "characterName": "Çiftçi",
+      "imageName": "ciftci",
+      "text": "Çiftçi Halk arasında tarikatların çoğaldığını söyledi.",
+      "leftOption": "İzin ver",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": 1,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": 1,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": -3,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_059",
+      "characterName": "Tüccar",
+      "imageName": "tuccar",
+      "text": "Tüccar Bir cariye saray sırlarını dışarı sızdırdı.",
+      "leftOption": "Destekle",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": 1,
+      "leftMilitaryEffect": -1,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": -5,
+      "rightEconomyEffect": 5,
+      "rightMilitaryEffect": 0,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": 2,
+      "tags": [
+        "isyan",
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_060",
+      "characterName": "Sadık Uşak",
+      "imageName": "usak",
+      "text": "Sadık Uşak Bazı beylerbeyler vergi vermeyi reddediyor.",
+      "leftOption": "Uyar",
+      "rightOption": "Dua et",
+      "leftEconomyEffect": 3,
+      "leftMilitaryEffect": 0,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": 3,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": 0,
+      "rightReligionEffect": 3,
+      "rightPeopleEffect": 5,
+      "tags": [
+        "tarikat",
+        "gizli_ajanda"
+      ]
+    },
+    {
+      "id": "card_061",
+      "characterName": "Şeyhülislam",
+      "imageName": "seyhulislam",
+      "text": "Şeyhülislam Bazı beylerbeyler vergi vermeyi reddediyor.",
+      "leftOption": "Uyar",
+      "rightOption": "Şura topla",
+      "leftEconomyEffect": -5,
+      "leftMilitaryEffect": 4,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": -2,
+      "rightMilitaryEffect": 0,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": 4,
+      "tags": [
+        "mucize",
+        "tarikat"
+      ]
+    },
+    {
+      "id": "card_062",
+      "characterName": "Defterdar",
+      "imageName": "defterdar",
+      "text": "Defterdar Bazı beylerbeyler vergi vermeyi reddediyor.",
+      "leftOption": "İzin ver",
+      "rightOption": "Teşvik et",
+      "leftEconomyEffect": -1,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": -1,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 4,
+      "rightMilitaryEffect": 1,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": 0,
+      "tags": [
+        "gizli_ajanda",
+        "tarikat"
+      ]
+    },
+    {
+      "id": "card_063",
+      "characterName": "Harem Ağası",
+      "imageName": "haremagasi",
+      "text": "Harem Ağası İstanbul’da büyük bir yangın çıktı.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": -5,
+      "leftMilitaryEffect": 4,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": -3,
+      "rightPeopleEffect": -1,
+      "tags": [
+        "tarikat"
+      ]
+    },
+    {
+      "id": "card_064",
+      "characterName": "Müneccim",
+      "imageName": "muneccim",
+      "text": "Müneccim Ay tutulmasının uğursuzluk getireceği konuşuluyor.",
+      "leftOption": "Engelle",
+      "rightOption": "Şura topla",
+      "leftEconomyEffect": -2,
+      "leftMilitaryEffect": 3,
+      "leftReligionEffect": 4,
+      "leftPeopleEffect": 1,
+      "rightEconomyEffect": 4,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": 0,
+      "tags": [
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_065",
+      "characterName": "Reis",
+      "imageName": "reis",
+      "text": "Reis Sarayda huzursuzluk çıktığını bildirdi.",
+      "leftOption": "İzin ver",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": 1,
+      "leftReligionEffect": -5,
+      "leftPeopleEffect": 4,
+      "rightEconomyEffect": 1,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": 3,
+      "rightPeopleEffect": -4,
+      "tags": [
+        "halk"
+      ]
+    },
+    {
+      "id": "card_066",
+      "characterName": "Sadık Uşak",
+      "imageName": "usak",
+      "text": "Sadık Uşak Bir tarikat lideri kendini mehdi ilan etti.",
+      "leftOption": "Sürgün et",
+      "rightOption": "Cezalandır",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": -1,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": -1,
+      "rightMilitaryEffect": -3,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": -3,
+      "tags": [
+        "mistik",
+        "halk"
+      ]
+    },
+    {
+      "id": "card_067",
+      "characterName": "Tüccar",
+      "imageName": "tuccar",
+      "text": "Tüccar İstanbul’da büyük bir yangın çıktı.",
+      "leftOption": "Sürgün et",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 0,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": 4,
+      "rightPeopleEffect": -4,
+      "tags": [
+        "mistik",
+        "din"
+      ]
+    },
+    {
+      "id": "card_068",
+      "characterName": "Şeyhülislam",
+      "imageName": "seyhulislam",
+      "text": "Şeyhülislam Sadaka dağıtımı adaletsiz yapılıyor.",
+      "leftOption": "Destekle",
+      "rightOption": "Şura topla",
+      "leftEconomyEffect": 3,
+      "leftMilitaryEffect": -1,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": 1,
+      "rightEconomyEffect": -1,
+      "rightMilitaryEffect": -5,
+      "rightReligionEffect": 3,
+      "rightPeopleEffect": 5,
+      "tags": [
+        "halk",
+        "mucize"
+      ]
+    },
+    {
+      "id": "card_069",
+      "characterName": "Reis",
+      "imageName": "reis",
+      "text": "Reis Yeni vergiler hakkında öneride bulundu.",
+      "leftOption": "Uyar",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": -3,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 4,
+      "rightMilitaryEffect": -3,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": 3,
+      "tags": [
+        "ordu"
+      ]
+    },
+    {
+      "id": "card_070",
+      "characterName": "Kadınlar Ağası",
+      "imageName": "kadinlaragasi",
+      "text": "Kadınlar Ağası Bir cariye saray sırlarını dışarı sızdırdı.",
+      "leftOption": "İncele",
+      "rightOption": "Yardım gönder",
+      "leftEconomyEffect": -5,
+      "leftMilitaryEffect": 3,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": -3,
+      "rightMilitaryEffect": 1,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": -3,
+      "tags": [
+        "din",
+        "ihanet"
+      ]
+    },
+    {
+      "id": "card_071",
+      "characterName": "Elçi",
+      "imageName": "elci",
+      "text": "Elçi Sadaka dağıtımı adaletsiz yapılıyor.",
+      "leftOption": "Destekle",
+      "rightOption": "Görmezden gel",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": 4,
+      "rightEconomyEffect": -3,
+      "rightMilitaryEffect": -1,
+      "rightReligionEffect": 5,
+      "rightPeopleEffect": 2,
+      "tags": [
+        "din",
+        "reform"
+      ]
+    },
+    {
+      "id": "card_072",
+      "characterName": "Veliaht Şehzade",
+      "imageName": "sehzade",
+      "text": "Veliaht Şehzade Toprak reformu isteyen köylüler dilekçe verdi.",
+      "leftOption": "Engelle",
+      "rightOption": "Dua et",
+      "leftEconomyEffect": -1,
+      "leftMilitaryEffect": -5,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 3,
+      "rightMilitaryEffect": 5,
+      "rightReligionEffect": -1,
+      "rightPeopleEffect": -4,
+      "tags": [
+        "ihanet",
+        "elçilik"
+      ]
+    },
+    {
+      "id": "card_073",
+      "characterName": "Defterdar",
+      "imageName": "defterdar",
+      "text": "Defterdar Sadaka dağıtımı adaletsiz yapılıyor.",
+      "leftOption": "Göz yumul",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": -5,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": -2,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": -1,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": -3,
+      "tags": [
+        "ekonomi",
+        "din"
+      ]
+    },
+    {
+      "id": "card_074",
+      "characterName": "Elçi",
+      "imageName": "elci",
+      "text": "Elçi Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
+      "leftOption": "Reddet",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": 3,
+      "leftMilitaryEffect": 3,
+      "leftReligionEffect": 4,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 0,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "ekonomi",
+        "reform"
+      ]
+    },
+    {
+      "id": "card_075",
+      "characterName": "Tüccar",
+      "imageName": "tuccar",
+      "text": "Tüccar Bir cariye saray sırlarını dışarı sızdırdı.",
+      "leftOption": "Destekle",
+      "rightOption": "Şura topla",
+      "leftEconomyEffect": 0,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": 3,
+      "leftPeopleEffect": 3,
+      "rightEconomyEffect": 5,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": 0,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "ihanet"
+      ]
+    },
+    {
+      "id": "card_076",
+      "characterName": "Başvezir",
+      "imageName": "vezir",
+      "text": "Başvezir Saray mutfağında yemek zehirlenmesi yaşandı.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": 5,
+      "leftReligionEffect": 1,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": -2,
+      "rightMilitaryEffect": -1,
+      "rightReligionEffect": 5,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "mucize"
+      ]
+    },
+    {
+      "id": "card_077",
+      "characterName": "Reis",
+      "imageName": "reis",
+      "text": "Reis Toprak reformu isteyen köylüler dilekçe verdi.",
+      "leftOption": "Uyar",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": -1,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": -3,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 1,
+      "rightMilitaryEffect": -5,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "tarikat",
+        "ihanet"
+      ]
+    },
+    {
+      "id": "card_078",
+      "characterName": "Sadık Uşak",
+      "imageName": "usak",
+      "text": "Sadık Uşak Sadaka dağıtımı adaletsiz yapılıyor.",
+      "leftOption": "İzin ver",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": 5,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": 4,
+      "leftPeopleEffect": -2,
+      "rightEconomyEffect": -1,
+      "rightMilitaryEffect": 0,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "isyan",
+        "halk"
+      ]
+    },
+    {
+      "id": "card_079",
+      "characterName": "Reis",
+      "imageName": "reis",
+      "text": "Reis Halk arasında tarikatların çoğaldığını söyledi.",
+      "leftOption": "Engelle",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": 1,
+      "leftMilitaryEffect": -1,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": 4,
+      "rightPeopleEffect": 5,
+      "tags": [
+        "reform"
+      ]
+    },
+    {
+      "id": "card_080",
+      "characterName": "Sadık Uşak",
+      "imageName": "usak",
+      "text": "Sadık Uşak İstanbul’da büyük bir yangın çıktı.",
+      "leftOption": "Göz yumul",
+      "rightOption": "Cezalandır",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": 4,
+      "leftReligionEffect": 1,
+      "leftPeopleEffect": 2,
+      "rightEconomyEffect": -5,
+      "rightMilitaryEffect": -2,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "gizli_ajanda"
+      ]
+    },
+    {
+      "id": "card_081",
+      "characterName": "Tüccar",
+      "imageName": "tuccar",
+      "text": "Tüccar Yeni vergiler hakkında öneride bulundu.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Görmezden gel",
+      "leftEconomyEffect": -5,
+      "leftMilitaryEffect": 4,
+      "leftReligionEffect": 3,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": 4,
+      "tags": [
+        "mistik"
+      ]
+    },
+    {
+      "id": "card_082",
+      "characterName": "Harem Ağası",
+      "imageName": "haremagasi",
+      "text": "Harem Ağası Sarayda huzursuzluk çıktığını bildirdi.",
+      "leftOption": "Engelle",
+      "rightOption": "Dua et",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": 3,
+      "leftPeopleEffect": 4,
+      "rightEconomyEffect": 1,
+      "rightMilitaryEffect": 5,
+      "rightReligionEffect": 1,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "gizli_ajanda"
+      ]
+    },
+    {
+      "id": "card_083",
+      "characterName": "Müneccim",
+      "imageName": "muneccim",
+      "text": "Müneccim Bir tarikat lideri kendini mehdi ilan etti.",
+      "leftOption": "Reddet",
+      "rightOption": "Görmezden gel",
+      "leftEconomyEffect": -2,
+      "leftMilitaryEffect": -5,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": 2,
+      "rightEconomyEffect": 0,
+      "rightMilitaryEffect": -4,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "reform",
+        "halk"
+      ]
+    },
+    {
+      "id": "card_084",
+      "characterName": "Reis",
+      "imageName": "reis",
+      "text": "Reis Saray mutfağında yemek zehirlenmesi yaşandı.",
+      "leftOption": "Göz yumul",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": -1,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "ihanet",
+        "reform"
+      ]
+    },
+    {
+      "id": "card_085",
+      "characterName": "Şeyhülislam",
+      "imageName": "seyhulislam",
+      "text": "Şeyhülislam Bazı beylerbeyler vergi vermeyi reddediyor.",
+      "leftOption": "İzin ver",
+      "rightOption": "Yardım gönder",
+      "leftEconomyEffect": 4,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": 0,
+      "leftPeopleEffect": -3,
+      "rightEconomyEffect": 1,
+      "rightMilitaryEffect": 5,
+      "rightReligionEffect": 2,
+      "rightPeopleEffect": 4,
+      "tags": [
+        "tarikat",
+        "ekonomi"
+      ]
+    },
+    {
+      "id": "card_086",
+      "characterName": "Reis",
+      "imageName": "reis",
+      "text": "Reis Bir cariye saray sırlarını dışarı sızdırdı.",
+      "leftOption": "Göz yumul",
+      "rightOption": "Görüş",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": 3,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": 1,
+      "rightEconomyEffect": -3,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": -1,
+      "tags": [
+        "isyan"
+      ]
+    },
+    {
+      "id": "card_087",
+      "characterName": "Veliaht Şehzade",
+      "imageName": "sehzade",
+      "text": "Veliaht Şehzade Kervan yollarında eşkıyalar türedi.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": -5,
+      "leftReligionEffect": 1,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": -2,
+      "rightReligionEffect": 2,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "ekonomi",
+        "gizli_ajanda"
+      ]
+    },
+    {
+      "id": "card_088",
+      "characterName": "Harem Ağası",
+      "imageName": "haremagasi",
+      "text": "Harem Ağası Sadaka dağıtımı adaletsiz yapılıyor.",
+      "leftOption": "Uyar",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": -3,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": 2,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "din"
+      ]
+    },
+    {
+      "id": "card_089",
+      "characterName": "Kadınlar Ağası",
+      "imageName": "kadinlaragasi",
+      "text": "Kadınlar Ağası Yeni vergiler hakkında öneride bulundu.",
+      "leftOption": "Reddet",
+      "rightOption": "Cezalandır",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": -2,
+      "leftReligionEffect": 0,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": 0,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": -3,
+      "rightPeopleEffect": -1,
+      "tags": [
+        "ordu"
+      ]
+    },
+    {
+      "id": "card_090",
+      "characterName": "Sadık Uşak",
+      "imageName": "usak",
+      "text": "Sadık Uşak Bir tarikat lideri kendini mehdi ilan etti.",
+      "leftOption": "Ferman çıkar",
+      "rightOption": "Sessiz kal",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": 5,
+      "leftReligionEffect": 4,
+      "leftPeopleEffect": 1,
+      "rightEconomyEffect": -1,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": -2,
+      "rightPeopleEffect": -1,
+      "tags": [
+        "tarikat"
+      ]
+    },
+    {
+      "id": "card_091",
+      "characterName": "Şeyhülislam",
+      "imageName": "seyhulislam",
+      "text": "Şeyhülislam Sarayda huzursuzluk çıktığını bildirdi.",
+      "leftOption": "Gereğini yap",
+      "rightOption": "Teşvik et",
+      "leftEconomyEffect": 1,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": 4,
+      "leftPeopleEffect": -4,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": 2,
+      "rightReligionEffect": 3,
+      "rightPeopleEffect": -1,
+      "tags": [
+        "halk"
+      ]
+    },
+    {
+      "id": "card_092",
+      "characterName": "Elçi",
+      "imageName": "elci",
+      "text": "Elçi Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
+      "leftOption": "İncele",
+      "rightOption": "Görmezden gel",
+      "leftEconomyEffect": 1,
+      "leftMilitaryEffect": 0,
+      "leftReligionEffect": -5,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 5,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": 2,
+      "rightPeopleEffect": 0,
+      "tags": [
+        "ihanet"
+      ]
+    },
+    {
+      "id": "card_093",
+      "characterName": "Başvezir",
+      "imageName": "vezir",
+      "text": "Başvezir İstanbul’da büyük bir yangın çıktı.",
+      "leftOption": "Uyar",
+      "rightOption": "Görmezden gel",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": 3,
+      "leftPeopleEffect": 5,
+      "rightEconomyEffect": 0,
+      "rightMilitaryEffect": 4,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": 2,
+      "tags": [
+        "gizli_ajanda"
+      ]
+    },
+    {
+      "id": "card_094",
+      "characterName": "Veliaht Şehzade",
+      "imageName": "sehzade",
+      "text": "Veliaht Şehzade İstanbul’da büyük bir yangın çıktı.",
+      "leftOption": "Destekle",
+      "rightOption": "Şura topla",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": -3,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": 0,
+      "rightEconomyEffect": 5,
+      "rightMilitaryEffect": 3,
+      "rightReligionEffect": -2,
+      "rightPeopleEffect": 1,
+      "tags": [
+        "ekonomi",
+        "halk"
+      ]
+    },
+    {
+      "id": "card_095",
+      "characterName": "Harem Ağası",
+      "imageName": "haremagasi",
+      "text": "Harem Ağası Yabancı elçilerin saraya casus yerleştirdiği iddiası var.",
+      "leftOption": "Engelle",
+      "rightOption": "Şura topla",
+      "leftEconomyEffect": 2,
+      "leftMilitaryEffect": 0,
+      "leftReligionEffect": 0,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 0,
+      "rightMilitaryEffect": -2,
+      "rightReligionEffect": 4,
+      "rightPeopleEffect": -5,
+      "tags": [
+        "ekonomi",
+        "mucize"
+      ]
+    },
+    {
+      "id": "card_096",
+      "characterName": "Gizli Hanedan Lideri",
+      "imageName": "gizlihanedan",
+      "text": "Gizli Hanedan Lideri Bir tarikat lideri kendini mehdi ilan etti.",
+      "leftOption": "İncele",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": 4,
+      "leftMilitaryEffect": 0,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": -4,
+      "rightEconomyEffect": -3,
+      "rightMilitaryEffect": -3,
+      "rightReligionEffect": -4,
+      "rightPeopleEffect": 3,
+      "tags": [
+        "halk",
+        "din"
+      ]
+    },
+    {
+      "id": "card_097",
+      "characterName": "Müneccim",
+      "imageName": "muneccim",
+      "text": "Müneccim Bazı beylerbeyler vergi vermeyi reddediyor.",
+      "leftOption": "Reddet",
+      "rightOption": "Yardım gönder",
+      "leftEconomyEffect": -3,
+      "leftMilitaryEffect": 0,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": -1,
+      "rightEconomyEffect": 4,
+      "rightMilitaryEffect": 0,
+      "rightReligionEffect": 2,
+      "rightPeopleEffect": -2,
+      "tags": [
+        "gizli_ajanda",
+        "ekonomi"
+      ]
+    },
+    {
+      "id": "card_098",
+      "characterName": "Defterdar",
+      "imageName": "defterdar",
+      "text": "Defterdar Yeni vergiler hakkında öneride bulundu.",
+      "leftOption": "Göz yumul",
+      "rightOption": "Soruşturma başlat",
+      "leftEconomyEffect": 1,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": 5,
+      "leftPeopleEffect": -3,
+      "rightEconomyEffect": -4,
+      "rightMilitaryEffect": -5,
+      "rightReligionEffect": 4,
+      "rightPeopleEffect": 5,
+      "tags": [
+        "ihanet"
+      ]
+    },
+    {
+      "id": "card_099",
+      "characterName": "Tüccar",
+      "imageName": "tuccar",
+      "text": "Tüccar Ordunun maaşı geç kaldı, hoşnutsuzluk artıyor.",
+      "leftOption": "Engelle",
+      "rightOption": "Şura topla",
+      "leftEconomyEffect": -1,
+      "leftMilitaryEffect": 2,
+      "leftReligionEffect": -4,
+      "leftPeopleEffect": 1,
+      "rightEconomyEffect": -3,
+      "rightMilitaryEffect": 1,
+      "rightReligionEffect": -5,
+      "rightPeopleEffect": 3,
+      "tags": [
+        "ihanet",
+        "isyan"
+      ]
+    },
+    {
+      "id": "card_100",
+      "characterName": "Veliaht Şehzade",
+      "imageName": "sehzade",
+      "text": "Veliaht Şehzade Bir cariye saray sırlarını dışarı sızdırdı.",
+      "leftOption": "İzin ver",
+      "rightOption": "Kabul et",
+      "leftEconomyEffect": -4,
+      "leftMilitaryEffect": -4,
+      "leftReligionEffect": -2,
+      "leftPeopleEffect": -3,
+      "rightEconomyEffect": 2,
+      "rightMilitaryEffect": -1,
+      "rightReligionEffect": 2,
+      "rightPeopleEffect": -1,
+      "tags": [
+        "gizli_ajanda"
+      ]
+    }
+  ]
+}

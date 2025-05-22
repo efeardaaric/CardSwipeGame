@@ -1,6 +1,6 @@
-using UnityEngine;
-using UnityEngine.UI;       // ?? UI elementleri i�in �art
-using System.Collections;  // ?? Coroutine i�in �art
+﻿using UnityEngine;
+using UnityEngine.UI;       // 💥 UI elementleri için şart
+using System.Collections;  // 💥 Coroutine için şart
 
 
 public class CardSwipe : MonoBehaviour
@@ -23,6 +23,8 @@ public class CardSwipe : MonoBehaviour
 
     void Update()
     {
+        if (manager == null) return; // ⛔ Init çağrılmadan işlem yapma (silme)
+
         if (Input.GetMouseButtonDown(0))
         {
             startTouchPosition = Input.mousePosition;
@@ -39,13 +41,13 @@ public class CardSwipe : MonoBehaviour
                 bool swipedRight = deltaX > 0;
                 float targetX = swipedRight ? 2000f : -2000f;
 
-                // Swipe animasyonu ba�lat
                 StartCoroutine(SwipeAndDestroy(targetX, swipedRight));
             }
 
             isSwiping = false;
         }
     }
+
 
     private IEnumerator SwipeAndDestroy(float targetX, bool swipedRight)
     {
